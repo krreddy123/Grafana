@@ -36,4 +36,13 @@ This is the link have followed.
 https://www.ceos3c.com/sysadmin/install-grafana-on-ubuntu-18-04-using-aws-ec2/
 
 
+How to remove the Grafana.
+
+https://stackoverflow.com/questions/42904482/how-to-completely-uninstall-grafana#:~:text=sudo%20apt%2Dget%20purge%20grafana,all%20dependencies%20and%20temp%20files.
+
+
+
+
+
+
 
